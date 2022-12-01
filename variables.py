@@ -11,3 +11,4 @@ toplam = number1+number2
 print(toplam)
 # print(toplam2)
 #ataberk
+#yetkin
